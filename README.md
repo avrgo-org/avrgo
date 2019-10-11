@@ -1,5 +1,8 @@
 # AVRGo - Go compiler for AVR microcontroller family
 
+![technology Go](https://img.shields.io/badge/technology-go-blue.svg) [![GoReportCard](https://goreportcard.com/badge/github.com/avrgo-org/avrgo)](https://goreportcard.com/report/avrgo-org/avrgo)
+
+
 AVRGo is a Go compiler to use for specific AVR type microcontrollers.
 
 AVRGo initially using the same concept with TinyGo which is reuses libraries used by the [Go language tools](https://golang.org/pkg/go/) alongside [LLVM](http://llvm.org) to provide an alternative way to compile programs written in the Go programming language.
