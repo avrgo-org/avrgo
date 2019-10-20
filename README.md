@@ -1,6 +1,10 @@
 # AVRGo - Go compiler for AVR microcontroller family
 
-![technology Go](https://img.shields.io/badge/technology-go-blue.svg) [![GoReportCard](https://goreportcard.com/badge/github.com/avrgo-org/avrgo)](https://goreportcard.com/report/avrgo-org/avrgo)
+[![technology Go]](https://img.shields.io/badge/technology-go-blue.svg) 
+[![](https://travis-ci.org/https://travis-ci.org/avrgo-org/avrgo/verifier.svg?branch=master)](https://travis-ci.org/avrgo-org/avrgo/verifier)
+[![GoReportCard](https://goreportcard.com/badge/github.com/avrgo-org/avrgo)](https://goreportcard.com/report/avrgo-org/avrgo)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/06627dd8eca5aaebed94/test_coverage)](https://codeclimate.com/github/avrgo-org/avrgo/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/06627dd8eca5aaebed94/maintainability)](https://codeclimate.com/github/avrgo-org/avrgo/maintainability)
 
 
 AVRGo is a Go compiler to use for AVR type microcontrollers.
