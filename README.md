@@ -10,14 +10,14 @@
 AVRGo is a Go compiler to use for AVR type microcontrollers.
 
 AVRGo initially combine the concept of :
-* AVR-GCC (GNU C compiler for AVR microcontroller)
+* AVR-GCC (GNU C compiler for AVR microcontroller), AVRGo uses the same function as AVR-GCC for compiling code for only AVR MCU family.
 
 * TinyGo which is reuses libraries used by the [Go language tools](https://golang.org/pkg/go/) alongside [LLVM](http://llvm.org) to provide an alternative way to compile programs written in the Go programming language.
 
 ## Installation
 Todo installation instructure.
 
-## Supported boards/targets
+## Supported MCU/targets
 Bellow are Atmel's microcontrollers which will be supported 
 
 * [Atmel SAM D21/E/G/J](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Atmel-42181-SAM-D21_Datasheet.pdf)
