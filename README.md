@@ -15,7 +15,7 @@ AVRGo initially combine the concept of :
 * TinyGo which is reuses libraries used by the [Go language tools](https://golang.org/pkg/go/) alongside [LLVM](http://llvm.org) to provide an alternative way to compile programs written in the Go programming language.
 
 ## Installation
-Todo installation instructure.
+Todo installation instruction.
 
 ## Supported MCU/targets
 Bellow are Atmel's microcontrollers which will be supported 
